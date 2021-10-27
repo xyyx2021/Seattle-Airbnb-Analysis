@@ -28,7 +28,7 @@ For this project, I picked the public dataset of Seattle Airbnb data from Kaggle
 Four questions to be answered by analyzing the data are:
 
 1) Which month has the highest/lowest average list price?
-2) What are the neighbourhoods with highest and lowest price?
+2) What are the neighborhoods with highest and lowest price?
 3) What are the numerical features strong correlated with price? 
 4) How is the predictability of using those features to predict price?
 
@@ -49,11 +49,11 @@ Jupyter Notebook [Seattle_Airbnb_Analysis_Udacity.ipynb] is written to address t
 
 - The listing prices reaches their peak from June to August and are lowest from January to March. The highest listing price is in July, around 152 dollars. The lowest listing price is in January, around 122 dollars.
 
-- The top two neighbourhood with highest price are the Southeast Magnolia neighborhood, averaging at 232 dollars and Portage Bay at 228 dollars. The top two neighbourhood with lowest price areRainier Beach, averaging at $68 dollars and Olympic Hills averaging at 72 dollars. 
+- The top two neighborhood with highest price are the Southeast Magnolia neighborhood, averaging at 232 dollars and Portage Bay at 228 dollars. The top two neighborhood with lowest price areRainier Beach, averaging at $68 dollars and Olympic Hills averaging at 72 dollars. 
 
 - By illustrating the correlation of all numerical columns in the listing spreadsheet with price column, it is shown the numerical features of bathrooms, beds and bedrooms have strong correlation with the price. Therefore, for the modeling and price prediction, those column will be used.
 
-- Both linear regression and Randomforest regressor were applied to use the numerical features including bathrooms, bedrooms and beds, as input to predict price. The r2 scores on the test data are all below 0.5, indicating that those features alone are not enough to predict price, other information may be needed to improve the predictability, i.e. neighbourhood, reviews, etc.
+- Both linear regression and Randomforest regressor were applied to use the numerical features including bathrooms, bedrooms and beds, as input to predict price. The r2 scores on the test data are all below 0.5, indicating that those features alone are not enough to predict price, other information may be needed to improve the predictability, i.e. neighborhood, reviews, etc.
 
 ### Blog
 
