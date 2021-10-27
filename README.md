@@ -4,12 +4,12 @@ This notebook is written for Udacity Data Science Nano degree project. The objec
 
 ### Table of Contents
 
-1. [Installation](#Installation)
-2. [Project Motivation](#Project-Motivation)
-3. [Data](#Data)
-4. [File Descriptions](#File-Descriptions)
-5. [Answers](#Answers)
-6. [Blog](#Blog)
+- [Installation](#Installation)
+- [Project Motivation](#Project-Motivation)
+- [Data](#Data)
+- [File Descriptions](#File-Descriptions)
+- [Answers](#Answers)
+- [Blog](#Blog)
 
 ### Installation
 
@@ -57,4 +57,4 @@ Jupyter Notebook [Seattle_Airbnb_Analysis_Udacity.ipynb] is written to address t
 
 ### Blog
 
-[What can we learn about Seattle Airbnb price?](https://medium.com/@xueyang1983/what-can-we-learn-about-seattle-airbnb-price-2befc3abc46b)
+[What can we learn about Seattle Airbnb price?](https://medium.com/@xueyang1983?p=2befc3abc46b)
